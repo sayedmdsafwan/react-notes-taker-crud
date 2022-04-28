@@ -42,7 +42,7 @@ export default function UpdateModal({ id, isReload, setIsReload }) {
         const textData = event.target.textData.value;
 
         // console.log(userName, textData);
-        fetch(`http://localhost:4000/note/${id}`, {
+        fetch(`https://afternoon-coast-48941.herokuapp.com/note/${id}`, {
             method: "PUT",
             headers: {
                 "Content-Type": "application/json",

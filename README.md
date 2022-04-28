@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Link: [Notes Taker](https://626a910f1dc4d907fda6ca29--jocular-bunny-94dfa5.netlify.app/).
+
+# This project is made by [Safwan](https://mdsafwan.com/).
 
 ## Available Scripts
 
